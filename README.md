@@ -1,4 +1,4 @@
-# Multi_Step_Form - Material UI - ReactJS - TypeScript
+# Multi Step Form - Material UI - ReactJS - TypeScript
 - ReactJS
 - TypeScript
 - Material UI
